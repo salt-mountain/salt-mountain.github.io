@@ -1,6 +1,6 @@
 ---
 title: DevOps All the Things - Creating a Pipeline to Validate Your OPA Policies
-date: 2017-11-11
+date: 2021-01-17
 link: https://www.youtube.com/watch?v=OTLow5yN34c
 tags: ['video', 'link', publications]
 ---
