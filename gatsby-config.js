@@ -9,7 +9,7 @@ module.exports = {
     author: 'Goran Osim',
     authorDescription: "I like Kubernetes but it doesn't always like me", // short text about the author
     avatar: '/avatar.jpg',
-    twitterUsername: "@goran_says"
+    twitterUsername: '@goran_says',
     social: [
       {
         icon: `twitter`,
